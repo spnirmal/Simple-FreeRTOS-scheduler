@@ -88,6 +88,14 @@ graph TD
 
 ---
 
+## 📷 Output Screenshot
+
+![Output Screenshot](https://github.com/spnirmal/Simple-FreeRTOS-scheduler/blob/main/assets/tasks_scheduler.jpeg)
+
+Task 1 and Task 2 are printing in the console with different time delays, showing correct multitasking behavior under FreeRTOS simulation.
+
+---
+
 ## 🌟 Learning Outcomes
 - Understand FreeRTOS task creation and management.
 - See how multitasking can be simulated on a Windows PC.
@@ -100,7 +108,4 @@ graph TD
 - Add task communication (queues or semaphores).
 - Implement CPU run-time statistics.
 - Port the project later to real hardware like STM32 or ESP32.
-
----
-
 
