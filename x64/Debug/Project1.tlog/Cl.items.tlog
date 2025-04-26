@@ -1,0 +1,9 @@
+E:\freertos\FreeRTOS\FreeRTOS\Source\event_groups.c;E:\projects\freertos\Project1\Project1\x64\Debug\event_groups.obj
+E:\freertos\FreeRTOS\FreeRTOS\Source\list.c;E:\projects\freertos\Project1\Project1\x64\Debug\list.obj
+E:\freertos\FreeRTOS\FreeRTOS\Source\portable\MemMang\heap_4.c;E:\projects\freertos\Project1\Project1\x64\Debug\heap_4.obj
+E:\freertos\FreeRTOS\FreeRTOS\Source\portable\MSVC-MingW\port.c;E:\projects\freertos\Project1\Project1\x64\Debug\port.obj
+E:\freertos\FreeRTOS\FreeRTOS\Source\queue.c;E:\projects\freertos\Project1\Project1\x64\Debug\queue.obj
+E:\freertos\FreeRTOS\FreeRTOS\Source\stream_buffer.c;E:\projects\freertos\Project1\Project1\x64\Debug\stream_buffer.obj
+E:\freertos\FreeRTOS\FreeRTOS\Source\tasks.c;E:\projects\freertos\Project1\Project1\x64\Debug\tasks.obj
+E:\freertos\FreeRTOS\FreeRTOS\Source\timers.c;E:\projects\freertos\Project1\Project1\x64\Debug\timers.obj
+E:\projects\freertos\Project1\Project1\main.c;E:\projects\freertos\Project1\Project1\x64\Debug\main.obj

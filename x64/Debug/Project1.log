@@ -1,0 +1,13 @@
+﻿  event_groups.c
+  list.c
+  port.c
+E:\freertos\FreeRTOS\FreeRTOS\Source\portable\MSVC-MingW\port.c(175,56): warning C4244: '=': conversion from 'TickType_t' to 'DWORD', possible loss of data
+E:\freertos\FreeRTOS\FreeRTOS\Source\portable\MSVC-MingW\port.c(185,5): warning C4244: 'function': conversion from 'TickType_t' to 'LONG', possible loss of data
+  heap_4.c
+  queue.c
+  stream_buffer.c
+  tasks.c
+  timers.c
+  main.c
+  Generating Code...
+  Project1.vcxproj -> E:\projects\freertos\Project1\x64\Debug\Project1.exe
