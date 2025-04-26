@@ -26,11 +26,11 @@ It runs **two tasks** (`Task1` and `Task2`) that execute independently without r
 ### 3. Tasks Implemented
 - **Task 1**:
   - Function: `vTask1`
-  - Prints: `"Task 1 running"`
+  - Prints: `Task 1 running`
   - Delay: 1000 milliseconds between prints (`vTaskDelay`).
 - **Task 2**:
   - Function: `vTask2`
-  - Prints: `"Task 2 running"`
+  - Prints: `Task 2 running`
   - Delay: 1500 milliseconds between prints (`vTaskDelay`).
 
 ### 4. How It Works
@@ -77,11 +77,11 @@ The console will display alternating messages from Task 1 and Task 2 based on th
 
 ## 📊 Flow Diagram
 ```mermaid
-graph TD;
-    A[Start Scheduler] --> B[vTask1 - Print "Task 1 running"]
-    A --> C[vTask2 - Print "Task 2 running"]
-    B --> D[vTaskDelay(1000ms)]
-    C --> E[vTaskDelay(1500ms)]
+graph TD
+    A(Start Scheduler) --> B(vTask1: Print Task 1 running)
+    A --> C(vTask2: Print Task 2 running)
+    B --> D(vTaskDelay 1000ms)
+    C --> E(vTaskDelay 1500ms)
     D --> B
     E --> C
 ```
