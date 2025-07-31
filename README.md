@@ -1,16 +1,15 @@
 # Simple FreeRTOS Scheduler Project
 
 ![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio%202022-blue?logo=visualstudiocode)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![FreeRTOS](https://img.shields.io/badge/RTOS-FreeRTOS-lightgrey)
 
-## 📌 Project Overview
+##  Project Overview
 This project demonstrates a **basic FreeRTOS task scheduler** setup using **Visual Studio 2022** and the **FreeRTOS Win32-MSVC demo port**.  
 It runs **two tasks** (`Task1` and `Task2`) that execute independently without requiring any hardware.
 
 ---
 
-## 🛠️ Technical Details
+## 🛠 Technical Details
 
 ### 1. Development Environment
 - **IDE**: Visual Studio 2022 (Community Edition)
@@ -75,7 +74,7 @@ The console will display alternating messages from Task 1 and Task 2 based on th
 
 ---
 
-## 📊 Flow Diagram
+##  Flow Diagram
 ```mermaid
 graph TD
     A(Start Scheduler) --> B(vTask1: Print Task 1 running)
